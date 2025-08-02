@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+faiss-cpu
+sentence-transformers
+google-generativeai
+streamlit-audiorecorder
